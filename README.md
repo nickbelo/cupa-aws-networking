@@ -1,2 +1,2 @@
 # cupa-aws-networking
-cupa terraform scripts to build global networking thru aws transit gateway
+cupa terraform scripts to build global networking, implementation of AWS Transit Gateway
